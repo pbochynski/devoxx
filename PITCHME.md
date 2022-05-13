@@ -8,16 +8,9 @@ _paginate: false
 ---
 
 ![bg](./assets/gradient.jpg)
+# How we migrate customers and our internal teams to Kubernetes 
 
-# <!--fit--> Marp CLI example
-
-Hosting Marp slide deck on the web
-
-https://github.com/yhatt/marp-cli-example
-
-<style scoped>a { color: #eee; }</style>
-
-<!-- This is presenter note. You can write down notes through HTML comment. -->
+Kubernetes conquered the world and is clearly the number one in container orchestration. We helped more than 400 teams to adopt Kubernetes and overcome problems they faced during the design, development, and operations phase. The session is about our experience, achievements, and failures running open-source projects Kyma and Gardener as a commercial offering.
 
 ---
 
